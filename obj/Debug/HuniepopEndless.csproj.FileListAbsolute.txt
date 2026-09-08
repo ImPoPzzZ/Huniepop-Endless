@@ -1,0 +1,9 @@
+C:\Users\emman\OneDrive\Desktop\Huniepop Endless\obj\Debug\HuniepopEndless.csproj.AssemblyReference.cache
+C:\Users\emman\OneDrive\Desktop\Huniepop Endless\obj\Debug\HuniepopEndless.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Desktop\Huniepop Endless\obj\Debug\HuniepopEndless.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Desktop\Huniepop Endless\obj\Debug\HuniepopEndless.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Desktop\Huniepop Endless\obj\Debug\HuniepopEndless.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Desktop\Huniepop Endless\bin\Debug\HuniepopEndless.dll
+C:\Users\emman\OneDrive\Desktop\Huniepop Endless\bin\Debug\HuniepopEndless.pdb
+C:\Users\emman\OneDrive\Desktop\Huniepop Endless\obj\Debug\HuniepopEndless.dll
+C:\Users\emman\OneDrive\Desktop\Huniepop Endless\obj\Debug\HuniepopEndless.pdb

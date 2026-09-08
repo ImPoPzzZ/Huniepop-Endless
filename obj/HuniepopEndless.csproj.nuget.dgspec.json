@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\emman\\OneDrive\\Desktop\\Huniepop Endless\\HuniepopEndless.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\emman\\OneDrive\\Desktop\\Huniepop Endless\\HuniepopEndless.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emman\\OneDrive\\Desktop\\Huniepop Endless\\HuniepopEndless.csproj",
+        "projectName": "HuniepopEndless",
+        "projectPath": "C:\\Users\\emman\\OneDrive\\Desktop\\Huniepop Endless\\HuniepopEndless.csproj",
+        "packagesPath": "C:\\Users\\emman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emman\\OneDrive\\Desktop\\Huniepop Endless\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emman\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "framework": "net46",
+            "targetAlias": "net46",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net46": {
+          "framework": "net46",
+          "targetAlias": "net46",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

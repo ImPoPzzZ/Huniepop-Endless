@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ih0eX+pYEo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emman\\OneDrive\\Desktop\\Huniepop Endless\\HuniepopEndless.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emman\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\emman\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.3\\microsoft.netframework.referenceassemblies.net46.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
